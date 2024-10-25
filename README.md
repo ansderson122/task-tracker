@@ -77,4 +77,4 @@ This command displays all tasks in the task list, regardless of their status.
 ```bash
 task-cli list <status>
 ```
-This command allows you to filter and display tasks based on their status. You can specify one of the following statuses: done, todo, or in-progress.
+This command allows you to filter and display tasks based on their status. You can specify one of the following statuses: `todo`, `in-progress`, or `done`.
